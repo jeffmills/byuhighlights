@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.video-js-box br{
+		display: none;
+}
+
+#primary h3 {
+	padding-top: 5px;
+}
