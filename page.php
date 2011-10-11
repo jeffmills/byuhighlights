@@ -50,6 +50,5 @@ get_header(); ?>
 			</div><!-- #content -->
             
 		</div><!-- #container -->
-	<?php include("wp-content/themes/byuhighlights/sidebar2.php"); ?>
 </div>
 <?php get_footer(); ?>

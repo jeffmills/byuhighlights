@@ -55,11 +55,10 @@
 
 		<ul>
 			
-			<li><a href="#">About</a></li>
-			<li><a href="#">Contact</a></li>
-			<li><img src="<?php bloginfo('template_directory'); ?>/images/stumbleupon.png" alt="stumble upon" /></li>
-			<li><img src="<?php bloginfo('template_directory'); ?>/images/rss.png" alt="stumble upon" /></li>
-			<li><img src="<?php bloginfo('template_directory'); ?>/images/twitter.png" alt="stumble upon" /></li>
+			<li><a href="http://byuhighlights.com/about">About</a></li>
+			<li><a href="http://byuhighlights.com/contact">Contact</a></li>
+			<li><a href="http://feeds.feedburner.com/byuhighlightscom"><img src="<?php bloginfo('template_directory'); ?>/images/rss.png" alt="stumble upon" /></a></li>
+			<li><a href="http://twitter.com/#!/BYUhighlights"><img src="<?php bloginfo('template_directory'); ?>/images/twitter.png" alt="stumble upon" /></a></li>
 
 		</ul>
 
@@ -69,7 +68,7 @@
 
 <div id="logo_box">
 	
-	<img src="<?php bloginfo('template_directory'); ?>/images/logo.png" alt="">
+	<a href="byughighlights.com"><img src="<?php bloginfo('template_directory'); ?>/images/logo.png" alt=""></a>
 
 	<div id="top_ad">
 		
