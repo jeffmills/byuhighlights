@@ -68,7 +68,7 @@
 
 <div id="logo_box">
 	
-	<a href="byughighlights.com"><img src="<?php bloginfo('template_directory'); ?>/images/logo.png" alt=""></a>
+	<a href="http://byuhighlights.com"><img src="<?php bloginfo('template_directory'); ?>/images/logo.png" alt=""></a>
 
 	<div id="top_ad">
 		

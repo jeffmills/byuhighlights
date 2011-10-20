@@ -150,23 +150,27 @@ body {
 	padding-left: 5px;
 }
 
+#widget-collapscat-4-top li.collapsing.categories .sym {
+	font-size: 14px !important;
+}
 
-ul > li > ul > li > ul > li > ul > li > a {
+ul > li > ul > li > div > ul > li > div > ul > li  a {
 	font-size: 12px;
 	font-weight: normal;
 }
 
-ul > li > ul > li > ul > li > ul > li {
+ul > li > ul > li > div > ul > li > div > ul > li {
 	margin-top: 5px;
+	font-size: 12px;
 }
 
-ul > li > ul > li > ul > li > a {
+ul > li > ul > li > div > ul > li > a {
 	font-size: 17px;
 	font-weight: normal;
 
 }
 
-ul > li > ul > li > ul {
+ul > li > ul > li > div > ul {
 	padding-left: 11px;
 	margin-top: 8px;
 	margin-bottom: 15px;
@@ -177,6 +181,10 @@ ul > li > a {
 	font-weight: bold;
 	font-size: 17px;
 	color: #334b68;
+}
+
+ul > li > ul > li > div > ul > li > a {
+	font-weight: normal;
 }
 
 #recent-posts-2 li a{
